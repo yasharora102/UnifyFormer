@@ -9,7 +9,7 @@
 This repository is implemented for NTIRE2024 Blind Compressed Image Enhancement Challenge
 
 By Titans
-Members: [Yash Arora](https://github.com/yasharora102), [Aditya Arora](https://github.com/adityac8)
+Members: [Yash Arora](https://yasharora102.github.io/), [Aditya Arora](https://adityac8.github.io/)
 
 
 The code is tested under Ubuntu 18.04 environment with NVIDIA A100 GPU and PyTorch 1.12.1 Python 3.10 Cuda 11.3
