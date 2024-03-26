@@ -22,7 +22,7 @@ cd UnifyFormer
 ```
 
 
-#### Download the pretrained model
+#### Download the pretrained model and place it in the root of the folder
 
 ```bash
 wget https://github.com/yasharora102/UnifyFormer/releases/download/Weights/model_unifyformer.pth 
