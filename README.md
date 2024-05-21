@@ -3,6 +3,8 @@
 
 
 ### UnifyFormer: Unifying Group Dynamics with Channel Attention for Blind Compressed Image Enhancement
+![UnifyFormer_arch](https://github.com/yasharora102/UnifyFormer/assets/29159814/e184d288-fa3e-41be-9c06-e4aa8d7b90c1)
+
 
 #### Introduction
 
