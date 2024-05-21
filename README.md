@@ -1,5 +1,5 @@
 ## [NTIRE 2024 Workshop and Challenge](https://cvlai.net/ntire/2024/) @ CVPR 2024
-## Blind Compressed Image Enhancement Challenge
+## Blind Compressed Image Enhancement Challenge [3rd Position]
 
 
 ### UnifyFormer: Unifying Group Dynamics with Channel Attention for Blind Compressed Image Enhancement
